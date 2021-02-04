@@ -16,7 +16,7 @@
 
 [comment]: <> (</p>)
 
-- 🔭 I’m currently working on [WorqCompany](https://worqcompany.com/)
+- 💻 I’m currently working on [WorqCompany](https://worqcompany.com/)
 
 - 📫 **cagatayuslu@msn.com**
 
@@ -69,6 +69,9 @@
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
     </a>
+    <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads?rtc=1" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
+    </a>
     <a href="https://redis.io/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/>
     </a>
@@ -82,9 +85,25 @@
         <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana" width="40" height="40"/>
     </a>
     <a href="https://prometheus.io/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="grafana" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="prometheus" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/>
     </a>
+    <a href="https://www.nginx.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+        <img src="https://img.stackshare.io/service/4313/XNKktHjN_400x400.png" alt="AzureDevops" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/>
+    </a>
+    <h3>Others</h3>
+    <p>Amazon S3</p>
+    <p>Amazon Cloudfront</p>
+    <p>Azure</p>
 </p>
