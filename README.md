@@ -16,7 +16,7 @@
 
 [comment]: <> (</p>)
 
-- 💻 I’m currently working on [WorqCompany](https://worqcompany.com/)
+- 💻 I’m currently working on [Koçfinans](https://www.kocfinans.com.tr/)
 
 - 📫 **cagatayuslu@msn.com**
 
