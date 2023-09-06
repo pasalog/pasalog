@@ -91,8 +91,4 @@
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/>
     </a>
-    <h3>Others</h3>
-    <p>Amazon S3</p>
-    <p>Amazon Cloudfront</p>
-    <p>Azure</p>
 </p>
