@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Çağatay</h1>
-<h3 align="center">Software engineer from Turkey</h3>
+<h3 align="center">Hi 👋, I'm Çağatay. Full Stack Software Engineer </h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=pasalog&label=Profile%20views&color=0e75b6&style=flat"
@@ -18,25 +17,15 @@
 
 - 💻 I’m currently working on [Koçfinans](https://www.kocfinans.com.tr/)
 
-- 📫 **cagatayuslu@msn.com**
+- 📫 **cagatay@koalascore.io**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cagatayuslu/](https://www.linkedin.com/in/cagatayuslu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/pasalog" target="blank">
-        <img align="center"
-             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-             alt="pasalog" height="30" width="40"/>
-    </a>
     <a href="https://linkedin.com/in/cagatayuslu" target="blank">
         <img align="center"
              src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-             alt="pasalog" height="30" width="40"/>
-    </a>
-    <a href="https://instagram.com/pasalog" target="blank">
-        <img align="center"
-             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
              alt="pasalog" height="30" width="40"/>
     </a>
     <a href="https://pasalog.medium.com/" target="blank">
