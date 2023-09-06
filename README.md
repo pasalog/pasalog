@@ -1,5 +1,6 @@
 <h3 align="center">Hi 👋, I'm Çağatay. Full Stack Software Engineer </h3>
 
+[![LinkedIn cagatayuslu](https://img.shields.io/badge/-cagatayuslu-blue?style=flats-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcagatayuslu%2F)](https://www.linkedin.com/in/cagatayuslu/)
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=pasalog&label=Profile%20views&color=0e75b6&style=flat"
          alt="pasalog"/>
