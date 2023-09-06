@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Çağatay. Full Stack Software Engineer </h3>
 
-[![Static Badge](https://img.shields.io/badge/-cagatayuslu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fpasalog.medium.com%2F)](https://www.linkedin.com/in/cagatayuslu/)
-[![Medium pasalog](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https%3A%2F%2Fpasalog.medium.com%2F)](https://pasalog.medium.com)
+[![LinkedIn cagatayuslu](https://img.shields.io/badge/-cagatayuslu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcagatayuslu%2F)](https://www.linkedin.com/in/cagatayuslu/)
+[![Medium pasalog](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https%3A%2F%2Fpasalog.medium.com%2F)](https://pasalog.medium.com)
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=pasalog&label=Profile%20views&color=0e75b6&style=flat"
          alt="pasalog"/>
