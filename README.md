@@ -2,6 +2,7 @@
 
 [![LinkedIn cagatayuslu](https://img.shields.io/badge/-cagatayuslu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcagatayuslu%2F)](https://www.linkedin.com/in/cagatayuslu/)
 [![Medium pasalog](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https%3A%2F%2Fpasalog.medium.com%2F)](https://pasalog.medium.com)
+[![StackShare pasalog](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/pasalog/my-stack)
 
 [comment]: <> (<p align="left">)
 
