@@ -18,6 +18,8 @@
 
 - 💻 I’m currently working on [Koçfinans](https://www.kocfinans.com.tr/)
 
+- ⛰️ I’m the founder of [Pasa Technology](https://pasatech.com.tr)
+
 - 📫 **cagatay@koalascore.io**
 
 
